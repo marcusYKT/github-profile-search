@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Search up Github profiles
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Practicing React.js with Typescript
 
 ## Available Scripts
 
